@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+
+    <string-array name="elementos_lista">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows Phone</item>
+        <item>Blackberry</item>
+        <item>Sumbian</item>
+    </string-array>
+
+    <string-array name="elementos_descropcion">
+        <item>Sistema operativo movil Android</item>
+        <item>Sistema operativo movil iOS</item>
+        <item>Sistema operativo movil Windows Phone</item>
+        <item>Sistema operativo movil Blackberry</item>
+        <item>Sistema operativo movil Sumbian</item>
+    </string-array>
+    <string name="title_activity_show_image">ShowImageActivity</string>
+</resources>
